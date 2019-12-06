@@ -5,6 +5,9 @@ print('1. Rock\n2. Paper\n3. Scissor \n ')
 choices = ['Rock', 'Paper', 'Scissor']
 for i in range(3):
     user_input = int(input("Enter any(1/2/3)"))
+    while user_input < 1 or user_input > 3:
+        user_input = int(input("Invalid input Enter (1/2/3)"))
+
     com_input = r.randint(1, 3)
     print("You Selected ", choices[user_input-1], "Computer selected ", choices[com_input-1])
     decision = (user_input - com_input) % 3
@@ -13,11 +16,9 @@ for i in range(3):
     elif decision == 2:
         print("Computer Wins this set")
         com_wins += 1
-    elif decision == 1:
+    else :
         print("User Wins this set")
         user_wins += 1
-    else:
-        print("Invalid input")
 if com_wins > user_wins:
     print("\nComputer Wins Best of three")
 elif user_wins > com_wins:
