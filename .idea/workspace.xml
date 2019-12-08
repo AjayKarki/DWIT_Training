@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="" />
+    <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,11 +37,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Basics\Week1" />
       <recent name="E:\Basics\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Rock_Paper_Scissor_v2">
-    <configuration name="Iteration Tuple Sets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Assignment3">
+    <configuration name="Assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,12 +50,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/Iteration Tuple Sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Assignments/Assignment1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Assignment2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4/Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Assignments/Assignment2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Rock_Paper_Scissor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Assignment3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +94,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/Rock_Paper_Scissor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Assignments/Assignment3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Assignment3" />
+        <item itemvalue="Python.Assignment2" />
+        <item itemvalue="Python.Assignment1" />
         <item itemvalue="Python.Rock_Paper_Scissor_v2" />
         <item itemvalue="Python.while_loop" />
-        <item itemvalue="Python.Iteration Tuple Sets" />
-        <item itemvalue="Python.Rock_Paper_Scissor" />
-        <item itemvalue="Python.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +191,7 @@
       <workItem from="1575509469748" duration="5787000" />
       <workItem from="1575595547863" duration="480000" />
       <workItem from="1575596222011" duration="5577000" />
+      <workItem from="1575800113629" duration="2815000" />
     </task>
     <servers />
   </component>
@@ -208,37 +212,40 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="604" height="629" key="GridCell.Tab.0.bottom" timestamp="1575601802392">
+    <state width="604" height="629" key="GridCell.Tab.0.bottom" timestamp="1575802687064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1575601802392" />
-    <state width="604" height="629" key="GridCell.Tab.0.center" timestamp="1575601802392">
+    <state width="604" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1575802687064" />
+    <state width="604" height="629" key="GridCell.Tab.0.center" timestamp="1575802687063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1575601802392" />
-    <state width="604" height="629" key="GridCell.Tab.0.left" timestamp="1575601802392">
+    <state width="604" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1575802687063" />
+    <state width="604" height="629" key="GridCell.Tab.0.left" timestamp="1575802687063">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1575601802392" />
-    <state width="604" height="629" key="GridCell.Tab.0.right" timestamp="1575601802392">
+    <state width="604" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1575802687063" />
+    <state width="604" height="629" key="GridCell.Tab.0.right" timestamp="1575802687064">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1575601802392" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1575596238264">
+    <state width="604" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1575802687064" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1575800116202">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575596238264" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575800116202" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Basics$first.coverage" NAME="first Coverage Results" MODIFIED="1575338993351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Basics$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1575596378275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/Basics$Iteration_Tuple_Sets.coverage" NAME="Iteration Tuple Sets Coverage Results" MODIFIED="1575600573789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
-    <SUITE FILE_PATH="coverage/Basics$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1575428452997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
-    <SUITE FILE_PATH="coverage/Basics$Conditionals_Continued.coverage" NAME="Conditionals Continued Coverage Results" MODIFIED="1575510324038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/Basics$Assignment1.coverage" NAME="Assignment1 Coverage Results" MODIFIED="1575800757911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1/Assignments" />
     <SUITE FILE_PATH="coverage/Basics$Condtionals.coverage" NAME="Condtionals Coverage Results" MODIFIED="1575428693089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
     <SUITE FILE_PATH="coverage/Basics$Rock_Paper_Scissor.coverage" NAME="Rock_Paper_Scissor Coverage Results" MODIFIED="1575597607864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
-    <SUITE FILE_PATH="coverage/Basics$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1575601272636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/Basics$Rock_Paper_Scissor_v2.coverage" NAME="Rock_Paper_Scissor_v2 Coverage Results" MODIFIED="1575601597895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
+    <SUITE FILE_PATH="coverage/Basics$first.coverage" NAME="first Coverage Results" MODIFIED="1575338993351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Basics$Loops.coverage" NAME="Loops Coverage Results" MODIFIED="1575596378275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/Basics$Assignment2.coverage" NAME="Assignment2 Coverage Results" MODIFIED="1575802264530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1/Assignments" />
+    <SUITE FILE_PATH="coverage/Basics$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1575428452997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
+    <SUITE FILE_PATH="coverage/Basics$Conditionals_Continued.coverage" NAME="Conditionals Continued Coverage Results" MODIFIED="1575510324038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
+    <SUITE FILE_PATH="coverage/Basics$Assignment3.coverage" NAME="Assignment3 Coverage Results" MODIFIED="1575802687056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1/Assignments" />
+    <SUITE FILE_PATH="coverage/Basics$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1575601272636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/Basics$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1575511106927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/Basics$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1575342477368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
   </component>
