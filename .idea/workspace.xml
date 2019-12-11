@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="" />
+    <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +192,8 @@
       <workItem from="1575595547863" duration="480000" />
       <workItem from="1575596222011" duration="5577000" />
       <workItem from="1575800113629" duration="4286000" />
-      <workItem from="1575854777209" duration="5310000" />
+      <workItem from="1575854777209" duration="5879000" />
+      <workItem from="1576027436192" duration="387000" />
     </task>
     <servers />
   </component>
@@ -211,26 +214,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="604" height="629" key="GridCell.Tab.0.bottom" timestamp="1575860092509">
+    <state width="604" height="629" key="GridCell.Tab.0.bottom" timestamp="1575860694056">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1575860092509" />
-    <state width="604" height="629" key="GridCell.Tab.0.center" timestamp="1575860092508">
+    <state width="604" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1575860694056" />
+    <state width="604" height="629" key="GridCell.Tab.0.center" timestamp="1575860694056">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1575860092508" />
-    <state width="604" height="629" key="GridCell.Tab.0.left" timestamp="1575860092508">
+    <state width="604" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1575860694056" />
+    <state width="604" height="629" key="GridCell.Tab.0.left" timestamp="1575860694056">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1575860092508" />
-    <state width="604" height="629" key="GridCell.Tab.0.right" timestamp="1575860092509">
+    <state width="604" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1575860694056" />
+    <state width="604" height="629" key="GridCell.Tab.0.right" timestamp="1575860694056">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="604" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1575860092509" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1575854779891">
+    <state width="604" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1575860694056" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1576027658196">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575854779891" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576027658196" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Basics$Iteration_Tuple_Sets.coverage" NAME="Iteration Tuple Sets Coverage Results" MODIFIED="1575600573789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
@@ -250,7 +253,7 @@
     <SUITE FILE_PATH="coverage/Basics$Assignment3.coverage" NAME="Assignment3 Coverage Results" MODIFIED="1575856500803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1/Assignments" />
     <SUITE FILE_PATH="coverage/Basics$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1575601272636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/Basics$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1575511106927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
-    <SUITE FILE_PATH="coverage/Basics$Vovel.coverage" NAME="Vovel Coverage Results" MODIFIED="1575860092503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day6" />
+    <SUITE FILE_PATH="coverage/Basics$Vovel.coverage" NAME="Vovel Coverage Results" MODIFIED="1575860331815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day6" />
     <SUITE FILE_PATH="coverage/Basics$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1575342477368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
   </component>
 </project>
