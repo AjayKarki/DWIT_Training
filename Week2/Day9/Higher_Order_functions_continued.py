@@ -62,9 +62,8 @@ list_one = [1, 2, 3, 4, 5]
 mean = reduce(lambda x, y: x + y, list_one) / len(list_one)
 print(mean)
 
-
-randomList = [1,'a',0,False,True,'0']
-filtered_list = filter(None,randomList)
+randomList = [1, 'a', 0, False, True, '0']
+filtered_list = filter(None, randomList)
 for e in filtered_list:
     print(e)
 print(list(filtered_list))
