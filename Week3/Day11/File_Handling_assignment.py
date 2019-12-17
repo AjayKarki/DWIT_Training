@@ -24,9 +24,9 @@ for key, value in dict_word_freq.items():
     word_count_list.append(value)
 
 print(word_count_list)
-least_word_count_set = sorted(set(word_count_list), reverse=True)[-10:]
+least_word_count_set = sorted(set(word_count_list), reverse=True)[-20:]
 print(least_word_count_set)
-most_word_count_set = sorted(set(word_count_list))[-10:]
+most_word_count_set = sorted(set(word_count_list))[-20:]
 print(most_word_count_set)
 
 least_ten_dict = dict()
