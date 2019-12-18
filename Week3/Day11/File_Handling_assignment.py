@@ -16,31 +16,38 @@ for word in list_words:
     else:
         dict_word_freq[word] = 1
 
-dict_word_freq = dict(sorted(dict_word_freq.items(), key=lambda x: x[1], reverse=True))
+dict_word_freq = dict(sorted(dict_word_freq.items(), key=lambda x: x[1]))
 
 word_count_list = []
 
 for key, value in dict_word_freq.items():
     word_count_list.append(value)
 
-print(word_count_list)
 least_word_count_set = sorted(set(word_count_list), reverse=True)[-20:]
-print(least_word_count_set)
 most_word_count_set = sorted(set(word_count_list))[-20:]
-print(most_word_count_set)
 
 least_ten_dict = dict()
 most_ten_dict = dict()
 for key, value in dict_word_freq.items():
     if value in least_word_count_set:
-        least_ten_dict[key] = value
-        top_ten_least_occuring.write(key+" : " + str(value)+'\n')
+        if value not in least_ten_dict.keys():
+            least_ten_dict[value] = [key]
+        else:
+            least_ten_dict[value].append(key)
     elif value in most_word_count_set:
-        most_ten_dict[key] = value
-        top_ten_most_occuring.write(key+" : " + str(value)+'\n')
+        if value not in least_ten_dict.keys():
+            most_ten_dict[value] = [key]
+        else:
+            most_ten_dict[value].append(key)
     else:
         pass
-print(least_ten_dict)
-print(most_ten_dict)
+
+for key, value in least_ten_dict.items():
+    least_ten_dict[key]= value[-3:]
+    top_ten_least_occuring.writelines(str(key) + " - " + str(least_ten_dict[key])+'\n')
+for key, value in most_ten_dict.items():
+    least_ten_dict[key]= value[-3:]
+    top_ten_most_occuring.writelines((str(key) + " - " + str(most_ten_dict[key]))+'\n')
+
 top_ten_least_occuring.close()
-top_ten_most_occuring.close()
+top_ten_least_occuring.close()

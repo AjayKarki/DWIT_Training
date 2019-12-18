@@ -4,6 +4,8 @@
     <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week3/Day11/File_Handling_assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day11/File_Handling_assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Day11/top_ten_least.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day11/top_ten_least.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/Day11/top_ten_most.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/Day11/top_ten_most.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
       <recent name="E:\Basics\Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.OOP_Basics">
+  <component name="RunManager" selected="Python.File_Handling_assignment">
     <configuration name="Exception_Handling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +76,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week3/Day12/Exception_Handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="File_Handling_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week3/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week3/Day11/File_Handling_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,28 +150,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob_finder" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basics" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week3/Assignments" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week3/Assignments/prob_finder.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="sum_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.File_Handling_assignment" />
         <item itemvalue="Python.OOP_Basics" />
         <item itemvalue="Python.Exception_Handling" />
         <item itemvalue="Python.sum_digits" />
         <item itemvalue="Python.palin_check" />
-        <item itemvalue="Python.prob_finder" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +222,8 @@
       <workItem from="1576546912780" duration="5535000" />
       <workItem from="1576582573386" duration="3518000" />
       <workItem from="1576596984690" duration="6444000" />
-      <workItem from="1576632584938" duration="5920000" />
+      <workItem from="1576632584938" duration="5963000" />
+      <workItem from="1576650324905" duration="1560000" />
     </task>
     <servers />
   </component>
@@ -249,26 +252,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1576484284758" />
-    <state width="544" height="629" key="GridCell.Tab.0.bottom" timestamp="1576637921997">
+    <state width="544" height="629" key="GridCell.Tab.0.bottom" timestamp="1576651883167">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576637921997" />
-    <state width="544" height="629" key="GridCell.Tab.0.center" timestamp="1576637921997">
+    <state width="544" height="629" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1576651883167" />
+    <state width="544" height="629" key="GridCell.Tab.0.center" timestamp="1576651883167">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576637921997" />
-    <state width="544" height="629" key="GridCell.Tab.0.left" timestamp="1576637921997">
+    <state width="544" height="629" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1576651883167" />
+    <state width="544" height="629" key="GridCell.Tab.0.left" timestamp="1576651883166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576637921997" />
-    <state width="544" height="629" key="GridCell.Tab.0.right" timestamp="1576637921997">
+    <state width="544" height="629" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1576651883166" />
+    <state width="544" height="629" key="GridCell.Tab.0.right" timestamp="1576651883167">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="544" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576637921997" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1576632586236">
+    <state width="544" height="629" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1576651883167" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1576650369165">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576632586236" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1576650369165" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576461894580">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -314,7 +317,7 @@
     <SUITE FILE_PATH="coverage/Basics$function_types.coverage" NAME="function_types Coverage Results" MODIFIED="1576033370360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day7" />
     <SUITE FILE_PATH="coverage/Basics$prob_finder.coverage" NAME="prob_finder Coverage Results" MODIFIED="1576602238466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3/Assignments" />
     <SUITE FILE_PATH="coverage/Basics$Greater_number.coverage" NAME="Greater_number Coverage Results" MODIFIED="1576031699157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day7" />
-    <SUITE FILE_PATH="coverage/Basics$File_Handling_assignment.coverage" NAME="File_Handling_assignment Coverage Results" MODIFIED="1576597006411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3/Day11" />
+    <SUITE FILE_PATH="coverage/Basics$File_Handling_assignment.coverage" NAME="File_Handling_assignment Coverage Results" MODIFIED="1576651883161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3/Day11" />
     <SUITE FILE_PATH="coverage/Basics$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1575511106927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day4" />
     <SUITE FILE_PATH="coverage/Basics$Higher_Order_functions_continued.coverage" NAME="Higher_Order_functions_continued Coverage Results" MODIFIED="1576459962732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week2/Day9" />
     <SUITE FILE_PATH="coverage/Basics$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1575342477368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
