@@ -38,7 +38,6 @@ for key, value in dict_word_freq.items():
     elif value in most_word_count_set:
         most_ten_dict[key] = value
         top_ten_most_occuring.write(key+" : " + str(value)+'\n')
-
     else:
         pass
 print(least_ten_dict)
