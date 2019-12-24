@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d145809-7598-46d1-9c99-0d396302b295" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Day15/Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/Day15/Polymorphism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week4/Day15/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week4/Day15/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +228,7 @@
       <workItem from="1577037292051" duration="2481000" />
       <workItem from="1577064326498" duration="5925000" />
       <workItem from="1577090203727" duration="112000" />
-      <workItem from="1577151194077" duration="2111000" />
+      <workItem from="1577151194077" duration="3497000" />
     </task>
     <servers />
   </component>

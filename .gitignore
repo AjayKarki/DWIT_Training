@@ -10,9 +10,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+venv
 # Distribution / packaging
-.idea/
+.idea
 .Python
 build/
 develop-eggs/
