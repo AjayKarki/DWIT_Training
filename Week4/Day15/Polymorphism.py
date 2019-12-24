@@ -27,7 +27,7 @@ def sample_decorator(sample_function):
     return inner_function
 
 
-@sample_decorator  # Now this is how you make a decorator
+@sample_decorator  # Now this is how you call a decorator
 def test_function():
     print("I am a normal function")
 
